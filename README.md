@@ -1,5 +1,7 @@
-[![GitHub followers](https://img.shields.io/github/followers/tauseef0786?label=Follow&style=social)](https://github.com/tauseef0786/?tab=follow) [![Gmail Badge](https://img.shields.io/badge/-Tauseef-c14438?style=social&logo=Gmail&logoColor=red&link=mailto:tauseefm948@gmail.com)](mailto:tauseefm948@gmail.com) 
-
+[![GitHub followers](https://img.shields.io/github/followers/tauseef0786?label=Follow&style=social)](https://github.com/tauseef0786/?tab=follow) 
+<a href="mailto:tauseefm948@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/-Tauseef-c14438?style=social&logo=Gmail&logoColor=red" />
+</a>
 <h1 align="center">Hey👋, I am Md Tauseef Raza</h1>
 <h3 align="center">I'm a MERN Full Stack Developer creating, and implementing applications and solutions using JavaScript, React & Node JS</h3>
 
@@ -18,6 +20,9 @@
 🔭 I’m currently working on [Full Stack Project](https://github.com/tauseef0786)
 
 🌱 I’m currently learning **React Advance**
+
+
+📧 You can reach me at [tauseefm948@gmail.com](mailto:tauseefm948@gmail.com)
 
 
 👨‍💻 All of my projects are available at [My Portfolio](https://tauseef-dev.netlify.app/)
