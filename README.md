@@ -25,7 +25,7 @@
 📧 You can reach me at [tauseefm948@gmail.com](mailto:tauseefm948@gmail.com)
 
 
-👨‍💻 All of my projects are available at [Portfolio](https://tauseef0786-github-io.vercel.app/) (right-click and open in new tab).
+👨‍💻 All of my projects are available at [Portfolio](https://tauseef0786-github-io.vercel.app/).
 
 💬 Ask me about **MERN**
 
